@@ -1,0 +1,83 @@
+{
+  "navbar": {
+    "logInAndGoToDashboard": "Log in & Go to dashboard",
+    "language": "Language"
+  },
+  "home": {
+    "hero": {
+      "catchCopy": "Focus on your resolution. Never digress.",
+      "setMilestones": "<p style='margin-left: 2rem; @media (min-width: 768px) { margin-left: 3rem }'>Set <span style='padding: 0.25rem; font-weight: bold; border-radius: 0.5rem; background-color: rgba(99, 102, 241, 0.2);'>Milestones</span>,</p>",
+      "hitTargets": "<p style='margin-left: 3rem; @media (min-width: 768px) { margin-left: 5rem }'>Hit <span style='padding: 0.25rem; font-weight: bold; border-radius: 0.5rem; background-color: rgba(16, 185, 129, 0.2);'>Targets</span>,</p>",
+      "achieveGoals": "<p style='margin-left: 4rem; @media (min-width: 768px) { margin-left: 7rem }'>Achieve <span style='padding: 0.25rem; font-weight: bold; border-radius: 0.5rem; background-color: rgba(217, 70, 239, 0.2);'>Goals</span></p>"
+    },
+    "whyThisApp": {
+      "whyThisApp": "Why Indigo Milestones",
+      "weAllHaveMadeMistakes": "We all have made the mistakes of..",
+      "givingAttention": "Giving too much attention, time, and effort<br />on less important matters",
+      "beingLured": "Being lured into unnecessary things<br />because of greener grass of neighbors",
+      "forgetting": "Forgetting initial aspirations<br />and getting lost",
+      "youStayOnTrack": "<br />you <span style='font-weight: 600;'>stay</span> on track,",
+      "notDigressingFrom": "<br /><span style='font-weight: 600;'>NOT digressing</span> from",
+      "whatYouReallyWanted": "<br />what <span style='font-weight: 600;'>you really wanted</span> at the beginning."
+    },
+    "howItWorks": {
+      "howItWorks": "How it works",
+      "createPath": "Create a Path to place your Milestones.",
+      "createMilestone": "Create a Milestone on the Path.",
+      "createTarget": "Create a Target on the Milestone.",
+      "createTask": "Create a Task on the Target.",
+      "reviewMilestone": "Review the Milestone and move on to the next one."
+    },
+    "faq": {
+      "thereAreManyAppsLikeThis": "There are many apps like this. Convince me that I need Indigo Milestones.",
+      "thereMayBeSimilarApps": "There may be similar applications that help you achieve your goals. While other applications focus more on small individual tasks, Indigo Milestones focuses on the big picture first and then let you dicect into smaller Targets to achieve your Milestones. If you like this approach, we are sure you would love Indigo Milestones.",
+      "ifIPurchaseTheOnetime": "If I purchase the onetime payment plan and I don&apos;t like it, can you refund?",
+      "unfortunatelyWeDoNot": "Unfortunately, We do not offer a refund. Please consider starting with the subscription plan and convert into the lifetime plan if you like using our app.",
+      "iAmOnSubscription": "I am on subscription. Can I stop it anytime?",
+      "yesYouCanStop": "Yes. You can stop your subscription any time. You can still enjoy using the app until the end of the subscription period for which you already paid.",
+      "iAmSearchingFor": "I am searching for my goal and don&apos;t have one yet. Should I wait to buy Indigo Milestones until I am sure what I really want to aim for?",
+      "notNecessarily": "Not necessarily. Indigo Milestones is certainly useful for those who already have a concrete goal to achieve. However, it can also help you journaling trying different things and getting closer to what you really want :&#41;"
+    }
+  },
+  "components": {
+    "dialogs": {
+      "loginForCheckout": {
+        "login": "Login",
+        "purchaseInfo": "Purchase Info",
+        "numTeamMembers": "Number of team members: ",
+        "paymentEvery": "Payment: every ",
+        "total": "Total: ",
+        "perYear": "/year",
+        "perMonth": "/month",
+        "firstLogin": "First, we need you to login to tie your email address with your purchase.",
+        "iHaveRead": "I have read and accept the ",
+        "termsAndConditions":"Terms and Conditions",
+        "privacyPolicy": "Privacy Policy"
+      }
+    },
+    "forms": {
+      "contactSupportForPricing": {
+        "contactSupportForPricing": "Contact Support for Pricing",
+        "legalName": "Legal Name",
+        "email": "Email",
+        "confirmEmail": "Confirm Email",
+        "companyName": "Company Name",
+        "numMembers": "Number of Members",
+        "thankYouForInquiry": "Thank you for your inquiry!",
+        "failedToSendInquiry": "Failed to send inquiry!"
+      }
+    }
+  },
+  "notFound": {
+    "pageNotFound": "404",
+    "pageNotFoundDescription": "We could not find the page you were looking for.",
+    "toDashboard": "To Dashboard"
+  },
+  "common": {
+    "save": "Save",
+    "cancel": "Cancel",
+    "success": "Success",
+    "error": "Error",
+    "noData": "No Data"
+  }
+}

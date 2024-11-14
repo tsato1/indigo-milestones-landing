@@ -1,0 +1,83 @@
+{
+  "navbar": {
+    "logInAndGoToDashboard": "ログイン＆ダッシュボードへ",
+    "language": "言語"
+  },
+  "home": {
+    "hero": {
+      "catchCopy": "個々のタスクも全体の目標も，見える化で成果を最大化",
+      "setMilestones": "<p style='margin-left: 2rem; @media (min-width: 768px) { margin-left: 3rem }'><span style='padding: 0.25rem; font-weight: bold; border-radius: 0.5rem; background-color: rgba(99, 102, 241, 0.2);'>マイルストーン</span>を作って</p>",
+      "hitTargets": "<p style='margin-left: 3rem; @media (min-width: 768px) { margin-left: 5rem }'><span style='padding: 0.25rem; font-weight: bold; border-radius: 0.5rem; background-color: rgba(16, 185, 129, 0.2);'>ターゲット</span>を定め</p>",
+      "achieveGoals": "<p style='margin-left: 4rem; @media (min-width: 768px) { margin-left: 7rem }'><span style='padding: 0.25rem; font-weight: bold; border-radius: 0.5rem; background-color: rgba(217, 70, 239, 0.2);'>ゴール</span>を達成！</p>"
+    },
+    "whyThisApp": {
+      "whyThisApp": "Indigo Milestonesが選ばれる理由",
+      "weAllHaveMadeMistakes": "私たちは皆",
+      "givingAttention": "時間や意識をあまり重要でないことに費やしてしまったり",
+      "beingLured": "隣の芝生が青く見え、必要のないことに気を取られてしまったり",
+      "forgetting": "初心を忘れて何をすべきか見失ってしまったり",
+      "youStayOnTrack": "<br /><span style='font-weight: 600;'>軌道</span>を外れず、",
+      "notDigressingFrom": "<br />本当は最初に<span style='font-weight: 600;'>わかっていた</span>",
+      "whatYouReallyWanted": "<br /><span style='font-weight: 600;'>目標</span>を達成する"
+    },
+    "howItWorks": {
+      "howItWorks": "利用方法について",
+      "createPath": "パスを作ります。",
+      "createMilestone": "パスの中にマイルストーンを作ります。",
+      "createTarget": "マイルストーンの中にターゲットを作ります。",
+      "createTask": "ターゲットの中にタスクを作ります。",
+      "reviewMilestone": "マイルストーンをレビューし、次のマイルストーンへ。"
+    },
+    "faq": {
+      "thereAreManyAppsLikeThis": "似たようなサービスが見られます。Indigo Milestonesは何が特別なのでしょうか。",
+      "thereMayBeSimilarApps": "Indigo Milestones同様、プロジェクトの進捗を管理し目標を効率的に達成するサービスがあることは確かです。ただ、他のサービスは個々のタスクに焦点を当て小さい視点から積み上げていくのに対し、Indigo Milestonesはまず大きな視点で目標を捉え、より細かなターゲットを設定することによりマイルストーンを達成することができます。このようなアプローチが気に入っていただければ、ご満足いただけると確信しております。",
+      "ifIPurchaseTheOnetime": "If I purchase the onetime payment plan and I don&apos;t like it, can you refund?",
+      "unfortunatelyWeDoNot": "Unfortunately, We do not offer a refund. Please consider starting with the subscription plan and convert into the lifetime plan if you like using our app.",
+      "iAmOnSubscription": "サブスクリプションを支払っています。いつでも止められますか？",
+      "yesYouCanStop": "はい。いつでもサブスクリプションを止めることができます。止めた時点ですぐに契約終了するわけではなく、直近のお支払いが対象とする期間が終了するまでお使いいただけます。",
+      "iAmSearchingFor": "目指すべき夢がまだありません。夢や目標が見つかるまでIndigo Milestonesを始めるのをやめた方がいいですか？",
+      "notNecessarily": "そうとも言えないかもしれません。夢や目標を見つけるまでの過程を記すことで、それが見つかりやすくなったり新たな気づきがあるかもしれません。"
+    }
+  },
+  "components": {
+    "dialogs": {
+      "loginForCheckout": {
+        "login": "ログイン",
+        "purchaseInfo": "お支払い情報",
+        "numTeamMembers": "チームメンバーの人数：",
+        "paymentEvery": "お支払い頻度：毎 ",
+        "total": "計：",
+        "perYear": "/年",
+        "perMonth": "/月",
+        "firstLogin": "メールアドレスとお支払い情報を紐づけるため、ログインしてください。",
+        "iHaveRead": "私は以下の文書を読み同意します：",
+        "termsAndConditions":"利用規約",
+        "privacyPolicy": "プライバシーポリシー"
+      }
+    },
+    "forms": {
+      "contactSupportForPricing": {
+        "contactSupportForPricing": "価格についてのお問い合わせ",
+        "legalName": "お名前（フルネーム）",
+        "email": "メールアドレス",
+        "confirmEmail": "メールアドレス（確認用）",
+        "companyName": "会社名",
+        "numMembers": "チームメンバーの人数",
+        "thankYouForInquiry": "送信しました。",
+        "failedToSendInquiry": "送信できませんでした。"
+      }
+    }
+  },
+  "notFound": {
+    "pageNotFound": "404",
+    "pageNotFoundDescription": "リクエストされたページが見つかりませんでした。",
+    "toDashboard": "ダッシュボードへ"
+  },
+  "common": {
+    "save": "保存",
+    "cancel": "キャンセル",
+    "success": "完了",
+    "error": "エラー",
+    "noData": "データが見つかりません。"
+  }
+}
